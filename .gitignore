@@ -1,1 +1,5 @@
-snapraid-runner.conf
+.idea/
+save/
+
+#snapraid-runner.conf
+*.conf
