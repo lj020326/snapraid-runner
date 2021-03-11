@@ -4,3 +4,6 @@ save/
 #snapraid-runner.conf
 *.conf
 *~
+
+*.log
+*.log.*
